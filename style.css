@@ -29,3 +29,8 @@ div{
 .hidden{
     display: none;
 }
+@media screen and (max-width:400px){
+div{
+    width: 95%;
+}
+}
